@@ -8,12 +8,12 @@
     "mandante": {
     "nome" : "Brasil",
     "forca" : 5,
-    "imagem" : "TODO"
+    "imagem" : "https://www.gifs-animados.net/bandeira/bandeira_brasil.gif"
     },
     "visitante": {
-    "nome" : "Argentina",
-    "forca" : 5,
-    "imagem" : "TODO"
+    "nome" : "Mato Grosso do Sul",
+    "forca" : 3,
+    "imagem" : "https://www.gifs-animados.net/bandeira/bandeira_mato_grosso_do_sul.gif"
     }
   }
 ]
